@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HP-shiro-spring-test"
+  id="myeclipse.1454672336812"
+  context-root="/HP-shiro-spring-test"
+  j2ee-spec="6.0"
+  archive="HP-shiro-spring-test.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
